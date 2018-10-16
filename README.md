@@ -2,7 +2,7 @@
 
 # 目录说明
 <pre>
--data    存放数据
+-data    存放数据(https://pan.baidu.com/s/1aPkGkfTgsz6IlTLzfXkJ1w)
 -vocabs  存放字典文件
 -runs    存放模型及tensorboard文件
 -data_helper.py   处理数据
